@@ -1,0 +1,9 @@
+C:\Users\Marshall Mathers\OneDrive\Рабочий стол\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Marshall Mathers\OneDrive\Рабочий стол\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Marshall Mathers\OneDrive\Рабочий стол\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Marshall Mathers\OneDrive\Рабочий стол\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Marshall Mathers\OneDrive\Рабочий стол\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Marshall Mathers\OneDrive\Рабочий стол\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Marshall Mathers\OneDrive\Рабочий стол\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Marshall Mathers\OneDrive\Рабочий стол\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Marshall Mathers\OneDrive\Рабочий стол\Tetris\Tetris\obj\Debug\Tetris.pdb
